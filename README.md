@@ -8,3 +8,5 @@ npm install
 npm start
 
 #make sure firebase is installed and congfigured.
+
+#For backend use postman
